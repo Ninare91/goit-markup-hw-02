@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo-web {
+    font-family: Raleway;
+    font-size: 18px;
+    color: 4D5AE5;
+}
+
+.logo-studio {
+    font-family: Raleway;
+    font-size: 18px;
+    color: 2E2F42;
+}
+
+.title {
+    font-size: 56px;
+    color: #ffffff;
+    background: #2E2F42;
+}
